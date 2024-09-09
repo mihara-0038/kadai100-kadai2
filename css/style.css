@@ -130,3 +130,20 @@ input[type="email"] {
   width: 300px;
 }
 /* 「お問い合わせ」ページ ここまで↑ */
+
+/*プラン例*/
+.plan-title{
+  width: 70%;
+  background-color:#eee8cc ;
+}
+
+.plan-list{
+  text-align: center;
+  font-weight: bold;
+}
+.plan-explanation{
+  padding-left: 10px;
+}
+table tbody tr:nth-child(even) {
+	background-color: #ffffff;
+}
