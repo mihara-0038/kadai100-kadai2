@@ -93,6 +93,23 @@ nav ul li a:hover {
 /* トップページ ここまで↑ */
 
 /* 「結婚式場のコンセプト」ページ ここから↓ */
+#main h2{
+  margin: 0 0 30px 0;
+  padding: 35px 0 35px 65px;
+  background-image: url(../images/bg_h1_head.png),
+    url(../images/bg_h1_bottom.png);
+  background-repeat: no-repeat, no-repeat;
+  background-position: left top, left bottom;
+  font-size: 156.25%;
+}
+#newconcept h3,
+.concept_box h4{
+  background-image: url("../images/bg_h2_head.png"),
+    url(../images/bg_h2_bottom.png);
+  background-repeat: no-repeat,no-repeat;
+  background-position: left top,left bottom;
+  padding: 10px 0 10px 30px;
+}
 .concept_box {
   margin-bottom: 30px;
   overflow: hidden;
